@@ -67,9 +67,14 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heppy363&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=heppy363&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" height="150" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=heppy363&layout=compact&theme=tokyonight&locale=en" alt="Top Langs" height="150" />
 </div>
 
+<div align="center">
+  <img src="https://count.getloli.com/@:heppy363?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="visitor count" />
+</div>
 <div align="center">
   <img src="https://count.getloli.com/@:heppy363?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="visitor count" />
 </div>
