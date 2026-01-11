@@ -67,8 +67,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heppy363&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heppy363&layout=compact&theme=tokyonight&locale=en" alt="Top Langs" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heppy363&theme=dracula" alt="GitHub Streak" />
 </div>
 
 <div align="center">
